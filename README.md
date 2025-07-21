@@ -4,10 +4,10 @@ A simple bat signal app.
 ## 📱 Preview
 <div align="center">
   <a href="#">
-      <img src=".github/assets/homePreview.png" width="200" alt="preview" />
+      <img src="https://github.com/Alisson-DeRodrigues/bat-signal-app/blob/main/assets/homePreview.png" width="200" alt="Home preview" />
   </a>
   <a href="#">
-      <img src=".github/assets/formPreview.png" width="200" alt="preview" />
+      <img src="https://github.com/Alisson-DeRodrigues/bat-signal-app/blob/main/assets/formPreview.png" width="200" alt="Form preview" />
   </a>
 </div>
 
